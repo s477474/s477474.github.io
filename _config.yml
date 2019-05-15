@@ -15,9 +15,10 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: s477474/s477474.github.io
 github_url: https://github.com/s477474
-url: https://s477474.github.i
+github_username: s477474
+repository: s477474/s477474.github.io
+url: https://s477474.github.io
 #enforce_ssl: ityouknow.com
 
 ## Gem
