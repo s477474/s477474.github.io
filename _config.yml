@@ -115,13 +115,13 @@ navs:
 
   -
     href: /spring-cloud.html
-    label: 开发者遇到的问题
+    label: 开发中遇到的问题
     target: _self
 
   -
     
     href: http://www.justdojava.com
-    label: Java
+    label: LeetCode
     target: _blank
 
   -
@@ -140,17 +140,17 @@ labels:
 
   -
     href: /payment.html
-    label: 支付     
+    label: Objective-C
     target: _self
 
   -
     href: /fastdfs.html
-    label: FastDFS
+    label: Swift
     target: _blank
 
   -
     href: /mongodb.html
-    label: MongoDB
+    label: LeetCode
     target: _blank
 
   -
