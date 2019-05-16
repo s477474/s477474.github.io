@@ -21,7 +21,7 @@ repository: s477474/s477474.github.io # ex. DONGChuan/DONGChuan.github.io
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: https://s477474.github.io
+url: http://www.jianghc.space
 
 
 ## Gem
@@ -101,21 +101,21 @@ navs:
 
   -
     href: /spring-boot.html
-    label: Spring Boot
+    label: iOS开发系列
     target: _self
     subnav:
 
       -
         subHref: /spring-boot.html
-        subLabel: Spring Boot
+        subLabel: Objective-C
 
       -
         subHref: /spring-cloud.html
-        subLabel: Spring Cloud
+        subLabel: Swift
 
   -
     href: /spring-cloud.html
-    label: Spring Cloud
+    label: 开发者遇到的问题
     target: _self
 
   -
